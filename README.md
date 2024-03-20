@@ -14,6 +14,7 @@ open https://nodejs.org/en/download
 
 bin/mirror.sh --user p5name
 ```
+bin/mirror.sh --user benjamin.bergery
 
 ## Why ?
 

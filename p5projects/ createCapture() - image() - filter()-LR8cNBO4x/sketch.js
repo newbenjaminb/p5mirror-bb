@@ -1,0 +1,48 @@
+// createCapture() - image() - filter
+// https://editor.p5js.org/benjamin.bergery/sketches/LR8cNBO4x
+
+let capture;
+
+function setup() {
+  createCanvas(400, 300);
+  capture = createCapture(VIDEO);
+  // createCapture() is part of p5 DOM library
+  // creates html5 element on page below canvas
+  // which can be scripted in the canvas
+  capture.hide();
+}
+
+function draw() {
+  image(capture, 0, 0, width, width * capture.height / capture.width);
+  filter(THRESHOLD,0.5); 
+}
+
+ 
+// THRESHOLD key Converts the image to black and white pixels depending if they are above or below the threshold defined by the level parameter. The parameter must be between 0.0 (black) and 1.0 (white). If no level is specified, 0.5 is used
+// GRAY b&w 
+// OPAQUE sets alpha channel to entirely opaque (e.g. 255?)
+// INVERT negative 
+// POSTERIZE, Limits each channel of image to number of colors specified as the parameter. parameter can be set to values between 2 and 255, results are most noticeable in the lower ranges 
+// ERODE, Reduces the light areas. No parameter
+// DILATE Increases the light areas. No parameter
+// BLUR Gaussian blur very SLLOOOWW
+// get's nice around 10
+// If no parameter, equivalent to Gaussian blur of radius 1. Larger values increase the blur
+
+
+//createCapture(type, [callback])
+// Parameters
+//type String|Constant|Object: type of capture, either VIDEO or AUDIO if none specified, default both, or a Constraints object
+//callback Function: function to be called once stream has loaded (Optional)
+// Creates a new HTML5 <video> element that contains the audio/video feed from a webcam. 
+// The element is separate from the canvas and is displayed by default. 
+// The element can be hidden using .hide(). 
+// The feed can be drawn onto the canvas using image(). 
+// The loadedmetadata property can be used to detect when the element has fully loaded
+
+
+// filter(filterType, [filterParam])
+// Parameters
+// filterType Constant: either THRESHOLD, GRAY, OPAQUE, INVERT, POSTERIZE, ERODE, DILATE or BLUR. 
+// See Filters.js for docs on each available filter
+// filterParam Number: an optional parameter unique to each filter, see above (Optional)

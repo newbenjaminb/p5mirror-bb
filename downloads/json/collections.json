@@ -1,0 +1,1073 @@
+[
+  {
+    "name": "-- learning 1",
+    "_id": "652tnyKTa",
+    "owner": {
+      "_id": "605f7a3abf462e0024133ef7",
+      "username": "benjamin.bergery",
+      "id": "605f7a3abf462e0024133ef7"
+    },
+    "description": "",
+    "slug": "--_learning_1",
+    "items": [
+      {
+        "_id": "631b3b4e3003f0001c088b4c",
+        "project": {
+          "name": "starting place",
+          "_id": "Yigx0VrS2",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "starting_place_copy",
+          "id": "Yigx0VrS2"
+        },
+        "createdAt": "2022-09-09T13:10:38.157Z",
+        "updatedAt": "2022-09-09T13:10:38.157Z",
+        "id": "631b3b4e3003f0001c088b4c",
+        "projectId": "Yigx0VrS2",
+        "isDeleted": false
+      },
+      {
+        "_id": "635399d851fd1f001a29911c",
+        "project": {
+          "name": "move W6.2-1 Bouncing ball class done v3",
+          "_id": "b6NkgW2XF",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "W6.2-1_Bouncing_ball_class_done_v2_copy",
+          "id": "b6NkgW2XF"
+        },
+        "createdAt": "2022-10-22T07:20:56.216Z",
+        "updatedAt": "2022-10-22T07:20:56.216Z",
+        "id": "635399d851fd1f001a29911c",
+        "projectId": "b6NkgW2XF",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2022-09-09T13:04:13.341Z",
+    "updatedAt": "2022-10-22T07:22:17.202Z",
+    "__v": 20,
+    "id": "652tnyKTa"
+  },
+  {
+    "name": "21 spring collection",
+    "_id": "1gd8zpRTg",
+    "owner": {
+      "_id": "605f7a3abf462e0024133ef7",
+      "username": "benjamin.bergery",
+      "id": "605f7a3abf462e0024133ef7"
+    },
+    "description": "",
+    "slug": "21_spring_collection",
+    "items": [
+      {
+        "_id": "6139e15a5798ed0019a4f5da",
+        "project": {
+          "name": "dice meter slash line copy",
+          "_id": "3bQP48fTM",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "dice_meter_slash_line_copy",
+          "id": "3bQP48fTM"
+        },
+        "createdAt": "2021-09-09T10:26:34.781Z",
+        "updatedAt": "2021-09-09T10:26:34.781Z",
+        "id": "6139e15a5798ed0019a4f5da",
+        "projectId": "3bQP48fTM",
+        "isDeleted": false
+      },
+      {
+        "_id": "6139e166cb64590019111f51",
+        "project": {
+          "name": "dice video meter angle swing copy",
+          "_id": "OsbJJBkvL",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "dice_video_meter_angle_swing_copy",
+          "id": "OsbJJBkvL"
+        },
+        "createdAt": "2021-09-09T10:26:46.166Z",
+        "updatedAt": "2021-09-09T10:26:46.166Z",
+        "id": "6139e166cb64590019111f51",
+        "projectId": "OsbJJBkvL",
+        "isDeleted": false
+      },
+      {
+        "_id": "6139e1758e40e80019f535ca",
+        "project": {
+          "name": "dice rgb tunnel slit Y copy",
+          "_id": "36Zn4QuEm",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "dice_rgb_tunnel_slit_Y_copy",
+          "id": "36Zn4QuEm"
+        },
+        "createdAt": "2021-09-09T10:27:01.300Z",
+        "updatedAt": "2021-09-09T10:27:01.300Z",
+        "id": "6139e1758e40e80019f535ca",
+        "projectId": "36Zn4QuEm",
+        "isDeleted": false
+      },
+      {
+        "_id": "6139e17e5798ed0019a4f612",
+        "project": {
+          "name": "dice meter slash rect copy",
+          "_id": "7XA9XO5q1",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "dice_meter_slash_rect_copy",
+          "id": "7XA9XO5q1"
+        },
+        "createdAt": "2021-09-09T10:27:10.919Z",
+        "updatedAt": "2021-09-09T10:27:10.919Z",
+        "id": "6139e17e5798ed0019a4f612",
+        "projectId": "7XA9XO5q1",
+        "isDeleted": false
+      },
+      {
+        "_id": "6139e1895798ed0019a4f61c",
+        "project": {
+          "name": "dice pixel bestill rgb ui copy",
+          "_id": "Py6LiL6LL",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "dice_pixel_bestill_rgb_ui_copy",
+          "id": "Py6LiL6LL"
+        },
+        "createdAt": "2021-09-09T10:27:21.653Z",
+        "updatedAt": "2021-09-09T10:27:21.653Z",
+        "id": "6139e1895798ed0019a4f61c",
+        "projectId": "Py6LiL6LL",
+        "isDeleted": false
+      },
+      {
+        "_id": "6139e1aecb64590019111fa5",
+        "project": {
+          "name": "p5LiveMedia Test Video dice bb",
+          "_id": "1UYjB0qW2",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "p5LiveMedia_Test_Video_dice_copy",
+          "id": "1UYjB0qW2"
+        },
+        "createdAt": "2021-09-09T10:27:58.974Z",
+        "updatedAt": "2021-09-09T10:27:58.974Z",
+        "id": "6139e1aecb64590019111fa5",
+        "projectId": "1UYjB0qW2",
+        "isDeleted": false
+      },
+      {
+        "_id": "6139e1c95798ed0019a4f660",
+        "project": {
+          "name": "dice pixel bestill v3",
+          "_id": "CP1FBTg0A",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "dice_pixel_bestill_v2_copy",
+          "id": "CP1FBTg0A"
+        },
+        "createdAt": "2021-09-09T10:28:25.352Z",
+        "updatedAt": "2021-09-09T10:28:25.352Z",
+        "id": "6139e1c95798ed0019a4f660",
+        "projectId": "CP1FBTg0A",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2021-09-09T10:26:20.834Z",
+    "updatedAt": "2021-09-09T10:28:46.657Z",
+    "__v": 13,
+    "id": "1gd8zpRTg"
+  },
+  {
+    "name": "22 november stuff",
+    "_id": "WkLo4u49f",
+    "owner": {
+      "_id": "605f7a3abf462e0024133ef7",
+      "username": "benjamin.bergery",
+      "id": "605f7a3abf462e0024133ef7"
+    },
+    "description": "",
+    "slug": "22_november_stuff",
+    "items": [
+      {
+        "_id": "6355475b9b5cb0001cd6403e",
+        "project": {
+          "name": "//  BUTTON - SLIDER - CHECKBOX - UI via jht",
+          "_id": "nfV8UCcHw",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "button_slider_checkbox_ui_copy",
+          "id": "nfV8UCcHw"
+        },
+        "createdAt": "2022-10-23T13:53:31.027Z",
+        "updatedAt": "2022-10-23T13:53:31.027Z",
+        "id": "6355475b9b5cb0001cd6403e",
+        "projectId": "nfV8UCcHw",
+        "isDeleted": false
+      },
+      {
+        "_id": "6355477a669dd5001a9a034b",
+        "project": {
+          "name": "// createCapture() - image() - filter()",
+          "_id": "LR8cNBO4x",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "createCapture()_-_image()_-_filter()",
+          "id": "LR8cNBO4x"
+        },
+        "createdAt": "2022-10-23T13:54:02.640Z",
+        "updatedAt": "2022-10-23T13:54:02.640Z",
+        "id": "6355477a669dd5001a9a034b",
+        "projectId": "LR8cNBO4x",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554afa669dd5001a9a1595",
+        "project": {
+          "name": "W6.4-2 red proximity black distance vv",
+          "_id": "nFLHbUrSe",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "W6.4-1v4_colliding_balls_DONE_copy",
+          "id": "nFLHbUrSe"
+        },
+        "createdAt": "2022-10-23T14:08:58.808Z",
+        "updatedAt": "2022-10-23T14:08:58.808Z",
+        "id": "63554afa669dd5001a9a1595",
+        "projectId": "nFLHbUrSe",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554bd69b5cb0001cd65889",
+        "project": {
+          "name": "W6.3v3 ZAPPING ball with SPLICE to ameliorate",
+          "_id": "atB6ZuXkj",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "W6.3v2_clicking_ball_to_change_color_copy",
+          "id": "atB6ZuXkj"
+        },
+        "createdAt": "2022-10-23T14:12:38.820Z",
+        "updatedAt": "2022-10-23T14:12:38.820Z",
+        "id": "63554bd69b5cb0001cd65889",
+        "projectId": "atB6ZuXkj",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554c89669dd5001a9a1f61",
+        "project": {
+          "name": "W6.2-3 Bouncing gray squares vv",
+          "_id": "F7E7t3yBY",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "W6.2-3_Bouncing_squares_with_color_method_QUESTION_copy",
+          "id": "F7E7t3yBY"
+        },
+        "createdAt": "2022-10-23T14:15:37.452Z",
+        "updatedAt": "2022-10-23T14:15:37.452Z",
+        "id": "63554c89669dd5001a9a1f61",
+        "projectId": "F7E7t3yBY",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554d80669dd5001a9a2517",
+        "project": {
+          "name": "W6.2-2 Bouncing squares using separate .js script for BsquareClass vv",
+          "_id": "MB6gURy6E",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "W6.2-1_Bouncing_ball_class_FFINAL_v5_QUESTION_copy",
+          "id": "MB6gURy6E"
+        },
+        "createdAt": "2022-10-23T14:19:44.531Z",
+        "updatedAt": "2022-10-23T14:19:44.531Z",
+        "id": "63554d80669dd5001a9a2517",
+        "projectId": "MB6gURy6E",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554f4fcb6625001994d2cd",
+        "project": {
+          "name": "W6.2-1v6 Bouncing ball class vv",
+          "_id": "gmx5rZ32M",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "W6.2-1_Bouncing_ball_class_FFINAL_v5_QUESTION_copy",
+          "id": "gmx5rZ32M"
+        },
+        "createdAt": "2022-10-23T14:27:27.859Z",
+        "updatedAt": "2022-10-23T14:27:27.859Z",
+        "id": "63554f4fcb6625001994d2cd",
+        "projectId": "gmx5rZ32M",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554f73669dd5001a9a2f9f",
+        "project": {
+          "name": "TIMER using FRAMECOUNT via jht",
+          "_id": "XuEO7dj1f",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Week3_Worksheet-3_copy_copy",
+          "id": "XuEO7dj1f"
+        },
+        "createdAt": "2022-10-23T14:28:03.829Z",
+        "updatedAt": "2022-10-23T14:28:03.829Z",
+        "id": "63554f73669dd5001a9a2f9f",
+        "projectId": "XuEO7dj1f",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554f9e9b5cb0001cd6701e",
+        "project": {
+          "name": "// random bar code via jht",
+          "_id": "MpyHn5-A5",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Ex_11_07_Filling_an_Array_in_a_for_Loop_copy",
+          "id": "MpyHn5-A5"
+        },
+        "createdAt": "2022-10-23T14:28:46.705Z",
+        "updatedAt": "2022-10-23T14:28:46.705Z",
+        "id": "63554f9e9b5cb0001cd6701e",
+        "projectId": "MpyHn5-A5",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554fb3cb6625001994d4d3",
+        "project": {
+          "name": "// ctrain disappearing trail linked to index",
+          "_id": "8xX0DRc8m",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "snake_copy",
+          "id": "8xX0DRc8m"
+        },
+        "createdAt": "2022-10-23T14:29:07.850Z",
+        "updatedAt": "2022-10-23T14:29:07.850Z",
+        "id": "63554fb3cb6625001994d4d3",
+        "projectId": "8xX0DRc8m",
+        "isDeleted": false
+      },
+      {
+        "_id": "63554fe49b5cb0001cd671ae",
+        "project": {
+          "name": "Brief JS HISTORY",
+          "_id": "Zr24TUbDS",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Brief_JS_HISTORY",
+          "id": "Zr24TUbDS"
+        },
+        "createdAt": "2022-10-23T14:29:56.989Z",
+        "updatedAt": "2022-10-23T14:29:56.989Z",
+        "id": "63554fe49b5cb0001cd671ae",
+        "projectId": "Zr24TUbDS",
+        "isDeleted": false
+      },
+      {
+        "_id": "63555044669dd5001a9a351a",
+        "project": {
+          "name": "GRAY EMBRACES v2",
+          "_id": "hvqY4BD5Z",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "GRAY_EMBRACES_copy",
+          "id": "hvqY4BD5Z"
+        },
+        "createdAt": "2022-10-23T14:31:32.532Z",
+        "updatedAt": "2022-10-23T14:31:32.532Z",
+        "id": "63555044669dd5001a9a351a",
+        "projectId": "hvqY4BD5Z",
+        "isDeleted": false
+      },
+      {
+        "_id": "6358f08bdb216c001bb81da2",
+        "project": {
+          "name": "brightness mirror remix 2",
+          "_id": "O0RM-j26h",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "11.4_p5.js_brightness_mirror_copy",
+          "id": "O0RM-j26h"
+        },
+        "createdAt": "2022-10-26T08:32:11.115Z",
+        "updatedAt": "2022-10-26T08:32:11.115Z",
+        "id": "6358f08bdb216c001bb81da2",
+        "projectId": "O0RM-j26h",
+        "isDeleted": false
+      },
+      {
+        "_id": "63593f1a892fb70019b9992a",
+        "project": {
+          "name": "W8.2 -- Flip images done",
+          "_id": "dGCMl-FmX",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Exercise_*_ICM_21_Week_8_*_Flip_images_copy",
+          "id": "dGCMl-FmX"
+        },
+        "createdAt": "2022-10-26T14:07:22.563Z",
+        "updatedAt": "2022-10-26T14:07:22.563Z",
+        "id": "63593f1a892fb70019b9992a",
+        "projectId": "dGCMl-FmX",
+        "isDeleted": false
+      },
+      {
+        "_id": "635d2f2101fe46001a38faf3",
+        "project": {
+          "name": "VidEx R G B sliders",
+          "_id": "77QaYnsBE",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "createCapture()_-_image()_-_filter()_copy",
+          "id": "77QaYnsBE"
+        },
+        "createdAt": "2022-10-29T13:48:17.389Z",
+        "updatedAt": "2022-10-29T13:48:17.389Z",
+        "id": "635d2f2101fe46001a38faf3",
+        "projectId": "77QaYnsBE",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2022-10-23T13:49:52.630Z",
+    "updatedAt": "2022-10-29T13:48:17.389Z",
+    "__v": 17,
+    "id": "WkLo4u49f"
+  },
+  {
+    "name": "camera collection",
+    "_id": "aOGD3EI3c",
+    "owner": {
+      "_id": "605f7a3abf462e0024133ef7",
+      "username": "benjamin.bergery",
+      "id": "605f7a3abf462e0024133ef7"
+    },
+    "description": "using onboard camera",
+    "slug": "camera_collection",
+    "items": [
+      {
+        "_id": "6139e05fcb64590019111e13",
+        "project": {
+          "name": "p5LiveMedia Test Video dice bb",
+          "_id": "1UYjB0qW2",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "p5LiveMedia_Test_Video_dice_copy",
+          "id": "1UYjB0qW2"
+        },
+        "createdAt": "2021-09-09T10:22:23.873Z",
+        "updatedAt": "2021-09-09T10:22:23.873Z",
+        "id": "6139e05fcb64590019111e13",
+        "projectId": "1UYjB0qW2",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2021-09-09T10:21:44.278Z",
+    "updatedAt": "2021-09-09T10:22:23.873Z",
+    "__v": 1,
+    "id": "aOGD3EI3c"
+  },
+  {
+    "name": "for jc",
+    "_id": "P7u0SKMnM",
+    "owner": {
+      "_id": "605f7a3abf462e0024133ef7",
+      "username": "benjamin.bergery",
+      "id": "605f7a3abf462e0024133ef7"
+    },
+    "description": "",
+    "slug": "for_jc",
+    "items": [
+      {
+        "_id": "63e161a59c3652001a22f849",
+        "project": {
+          "name": "Perlin noise illustration",
+          "_id": "087BCh22e",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Perlin_noise_illustration",
+          "id": "087BCh22e"
+        },
+        "createdAt": "2023-02-06T20:23:01.400Z",
+        "updatedAt": "2023-02-06T20:23:01.400Z",
+        "id": "63e161a59c3652001a22f849",
+        "projectId": "087BCh22e",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e161f801be9a001aeca63a",
+        "project": {
+          "name": "perlin noise via fuqiumeng v6",
+          "_id": "QStPXqgSz",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "perlin_noise_via_fuqiumeng_v4_copy",
+          "id": "QStPXqgSz"
+        },
+        "createdAt": "2023-02-06T20:24:24.071Z",
+        "updatedAt": "2023-02-06T20:24:24.071Z",
+        "id": "63e161f801be9a001aeca63a",
+        "projectId": "QStPXqgSz",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1623a60864a001a806416",
+        "project": {
+          "name": "CC 24 Perlin Noise Flow Field copy",
+          "_id": "1-FmOQs0W",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "CC_24_Perlin_Noise_Flow_Field_copy",
+          "id": "1-FmOQs0W"
+        },
+        "createdAt": "2023-02-06T20:25:30.526Z",
+        "updatedAt": "2023-02-06T20:25:30.526Z",
+        "id": "63e1623a60864a001a806416",
+        "projectId": "1-FmOQs0W",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e162629c3652001a2300ab",
+        "project": {
+          "name": "blur halo",
+          "_id": "oFDtNUwXx",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "fast_blur_circle_copy",
+          "id": "oFDtNUwXx"
+        },
+        "createdAt": "2023-02-06T20:26:10.535Z",
+        "updatedAt": "2023-02-06T20:26:10.535Z",
+        "id": "63e162629c3652001a2300ab",
+        "projectId": "oFDtNUwXx",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1628c9c3652001a23021f",
+        "project": {
+          "name": "halos",
+          "_id": "CCjcw7tuX",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Blurred_rect_copy",
+          "id": "CCjcw7tuX"
+        },
+        "createdAt": "2023-02-06T20:26:52.597Z",
+        "updatedAt": "2023-02-06T20:26:52.597Z",
+        "id": "63e1628c9c3652001a23021f",
+        "projectId": "CCjcw7tuX",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e162cd01be9a001aecafaf",
+        "project": {
+          "name": "blur",
+          "_id": "zm1e9wR_t",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "blurring_vvv_copy",
+          "id": "zm1e9wR_t"
+        },
+        "createdAt": "2023-02-06T20:27:57.534Z",
+        "updatedAt": "2023-02-06T20:27:57.534Z",
+        "id": "63e162cd01be9a001aecafaf",
+        "projectId": "zm1e9wR_t",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e162f59c3652001a230722",
+        "project": {
+          "name": "Facemesh_Webcam copy",
+          "_id": "NKVwt61sc",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Facemesh_Webcam_copy_copy",
+          "id": "NKVwt61sc"
+        },
+        "createdAt": "2023-02-06T20:28:37.007Z",
+        "updatedAt": "2023-02-06T20:28:37.007Z",
+        "id": "63e162f59c3652001a230722",
+        "projectId": "NKVwt61sc",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1632701be9a001aecb357",
+        "project": {
+          "name": "WK11 Reverb by Cassie Tarakajian copy copy",
+          "_id": "2RpY5bPrQ",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "WK11_Reverb_by_Cassie_Tarakajian_copy_copy",
+          "id": "2RpY5bPrQ"
+        },
+        "createdAt": "2023-02-06T20:29:27.097Z",
+        "updatedAt": "2023-02-06T20:29:27.097Z",
+        "id": "63e1632701be9a001aecb357",
+        "projectId": "2RpY5bPrQ",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1633160864a001a806f55",
+        "project": {
+          "name": "CC 58 - Earthquake Visualization 3D copy copy",
+          "_id": "2GGu3KWGR",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "CC_58_-_Earthquake_Visualization_3D_copy_copy",
+          "id": "2GGu3KWGR"
+        },
+        "createdAt": "2023-02-06T20:29:37.462Z",
+        "updatedAt": "2023-02-06T20:29:37.462Z",
+        "id": "63e1633160864a001a806f55",
+        "projectId": "2GGu3KWGR",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e164da01be9a001aecca31",
+        "project": {
+          "name": "2:4 Loopy % Drum copy",
+          "_id": "033aR-UST",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:4_Loopy_percent_Drum_copy",
+          "id": "033aR-UST"
+        },
+        "createdAt": "2023-02-06T20:36:42.406Z",
+        "updatedAt": "2023-02-06T20:36:42.406Z",
+        "id": "63e164da01be9a001aecca31",
+        "projectId": "033aR-UST",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e165504aca45001afd6572",
+        "project": {
+          "name": "explore audio decay with this",
+          "_id": "KnCx8dUwe",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Example_-_ICM_21_Week_11_-_Sample_with_Envelope_copy",
+          "id": "KnCx8dUwe"
+        },
+        "createdAt": "2023-02-06T20:38:40.648Z",
+        "updatedAt": "2023-02-06T20:38:40.648Z",
+        "id": "63e165504aca45001afd6572",
+        "projectId": "KnCx8dUwe",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e165cc01be9a001aecd67f",
+        "project": {
+          "name": "//sine sawtooth triangle square visual audio via enickles",
+          "_id": "1hlb06o_F",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Example_-_ICM_21_Week_11_-_Oscillator_with_Different_Wave_Types_copy",
+          "id": "1hlb06o_F"
+        },
+        "createdAt": "2023-02-06T20:40:44.969Z",
+        "updatedAt": "2023-02-06T20:40:44.969Z",
+        "id": "63e165cc01be9a001aecd67f",
+        "projectId": "1hlb06o_F",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1661301be9a001aecda1d",
+        "project": {
+          "name": "//make piano2 from this",
+          "_id": "M66l1mlvR",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "ICM-06_Example_-_ICM_21_Week_11_-_Oscillator_with_Note_Frequencies_Columns_copy",
+          "id": "M66l1mlvR"
+        },
+        "createdAt": "2023-02-06T20:41:55.513Z",
+        "updatedAt": "2023-02-06T20:41:55.513Z",
+        "id": "63e1661301be9a001aecda1d",
+        "projectId": "M66l1mlvR",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e166b569408b001b2bd3f2",
+        "project": {
+          "name": "sound amp modulating ellipse v3",
+          "_id": "n6RqU2WpV",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "sound_amp_modulating_ellipse_v2_copy",
+          "id": "n6RqU2WpV"
+        },
+        "createdAt": "2023-02-06T20:44:37.998Z",
+        "updatedAt": "2023-02-06T20:44:37.998Z",
+        "id": "63e166b569408b001b2bd3f2",
+        "projectId": "n6RqU2WpV",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e167a769408b001b2bde60",
+        "project": {
+          "name": "RGB HSB sliders v5",
+          "_id": "uAZuz9rfw",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "RGB_HSB_sliders_v4_copy",
+          "id": "uAZuz9rfw"
+        },
+        "createdAt": "2023-02-06T20:48:39.263Z",
+        "updatedAt": "2023-02-06T20:48:39.263Z",
+        "id": "63e167a769408b001b2bde60",
+        "projectId": "uAZuz9rfw",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1681d69408b001b2be34d",
+        "project": {
+          "name": "11.6: Painting with Pixels - faster copy",
+          "_id": "A6PXN0etJ",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "11.6:_Painting_with_Pixels_-_faster_copy",
+          "id": "A6PXN0etJ"
+        },
+        "createdAt": "2023-02-06T20:50:37.357Z",
+        "updatedAt": "2023-02-06T20:50:37.357Z",
+        "id": "63e1681d69408b001b2be34d",
+        "projectId": "A6PXN0etJ",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e1684869408b001b2be524",
+        "project": {
+          "name": "Spotlight copy",
+          "_id": "hpzbOgonj",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Spotlight_copy",
+          "id": "hpzbOgonj"
+        },
+        "createdAt": "2023-02-06T20:51:20.904Z",
+        "updatedAt": "2023-02-06T20:51:20.904Z",
+        "id": "63e1684869408b001b2be524",
+        "projectId": "hpzbOgonj",
+        "isDeleted": false
+      },
+      {
+        "_id": "63e168e94aca45001afd8ea0",
+        "project": {
+          "name": "v slit v2 v slit v2 with checkbox vvv",
+          "_id": "LjP_Tq2Rv",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "v_slit_v2_continual_copy",
+          "id": "LjP_Tq2Rv"
+        },
+        "createdAt": "2023-02-06T20:54:01.348Z",
+        "updatedAt": "2023-02-06T20:54:01.348Z",
+        "id": "63e168e94aca45001afd8ea0",
+        "projectId": "LjP_Tq2Rv",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2023-02-06T20:22:12.214Z",
+    "updatedAt": "2023-02-06T20:54:01.348Z",
+    "__v": 24,
+    "id": "P7u0SKMnM"
+  },
+  {
+    "name": "november colors",
+    "_id": "1GHo9o8fj",
+    "owner": {
+      "_id": "605f7a3abf462e0024133ef7",
+      "username": "benjamin.bergery",
+      "id": "605f7a3abf462e0024133ef7"
+    },
+    "description": "",
+    "slug": "november_colors",
+    "items": [
+      {
+        "_id": "636624962b5140001a001916",
+        "project": {
+          "name": "2:2 HSB swatches copy copy",
+          "_id": "2P2InCFK1",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:2_HSB_swatches_copy_copy",
+          "id": "2P2InCFK1"
+        },
+        "createdAt": "2022-11-05T08:53:42.226Z",
+        "updatedAt": "2022-11-05T08:53:42.226Z",
+        "id": "636624962b5140001a001916",
+        "projectId": "2P2InCFK1",
+        "isDeleted": false
+      },
+      {
+        "_id": "636624b31e8a2b001ace3866",
+        "project": {
+          "name": "2:2  Complementary Colors copy",
+          "_id": "PiRywzc0a",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:2_Complementary_Colors_copy",
+          "id": "PiRywzc0a"
+        },
+        "createdAt": "2022-11-05T08:54:11.875Z",
+        "updatedAt": "2022-11-05T08:54:11.875Z",
+        "id": "636624b31e8a2b001ace3866",
+        "projectId": "PiRywzc0a",
+        "isDeleted": false
+      },
+      {
+        "_id": "636624c52b5140001a0019a6",
+        "project": {
+          "name": "2:2 Circle / Rect visualization copy",
+          "_id": "EwyRfwTod",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:2_Circle_Rect_visualization_copy",
+          "id": "EwyRfwTod"
+        },
+        "createdAt": "2022-11-05T08:54:29.070Z",
+        "updatedAt": "2022-11-05T08:54:29.070Z",
+        "id": "636624c52b5140001a0019a6",
+        "projectId": "EwyRfwTod",
+        "isDeleted": false
+      },
+      {
+        "_id": "636624dc2b5140001a001a1f",
+        "project": {
+          "name": "2:2  Analogous Colors copy",
+          "_id": "TGftyxMb2",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:2_Analogous_Colors_copy",
+          "id": "TGftyxMb2"
+        },
+        "createdAt": "2022-11-05T08:54:52.897Z",
+        "updatedAt": "2022-11-05T08:54:52.897Z",
+        "id": "636624dc2b5140001a001a1f",
+        "projectId": "TGftyxMb2",
+        "isDeleted": false
+      },
+      {
+        "_id": "6366250a2b5140001a001b10",
+        "project": {
+          "name": "challenge colors in array",
+          "_id": "lxGgadBIT",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Ubiquitous_socks",
+          "id": "lxGgadBIT"
+        },
+        "createdAt": "2022-11-05T08:55:38.375Z",
+        "updatedAt": "2022-11-05T08:55:38.375Z",
+        "id": "6366250a2b5140001a001b10",
+        "projectId": "lxGgadBIT",
+        "isDeleted": false
+      },
+      {
+        "_id": "636625112b5140001a001b22",
+        "project": {
+          "name": "Josef Albers squares copy",
+          "_id": "u4VugArVv",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "Josef_and_The_Amazing_Technicolor_Dreamcoat_copy",
+          "id": "u4VugArVv"
+        },
+        "createdAt": "2022-11-05T08:55:45.105Z",
+        "updatedAt": "2022-11-05T08:55:45.105Z",
+        "id": "636625112b5140001a001b22",
+        "projectId": "u4VugArVv",
+        "isDeleted": false
+      },
+      {
+        "_id": "636625192b5140001a001b35",
+        "project": {
+          "name": "2:2 Rothko's Cat copy",
+          "_id": "l7LdjibmW",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:2_Rothko's_Cat_copy",
+          "id": "l7LdjibmW"
+        },
+        "createdAt": "2022-11-05T08:55:53.163Z",
+        "updatedAt": "2022-11-05T08:55:53.163Z",
+        "id": "636625192b5140001a001b35",
+        "projectId": "l7LdjibmW",
+        "isDeleted": false
+      },
+      {
+        "_id": "6366252070f705001928d44d",
+        "project": {
+          "name": "2:2 Tri-Color Background-Foreground copy",
+          "_id": "40Py5XYtj",
+          "user": {
+            "_id": "605f7a3abf462e0024133ef7",
+            "username": "benjamin.bergery",
+            "id": "605f7a3abf462e0024133ef7"
+          },
+          "slug": "2:2_Tri-Color_Background-Foreground_copy",
+          "id": "40Py5XYtj"
+        },
+        "createdAt": "2022-11-05T08:56:00.148Z",
+        "updatedAt": "2022-11-05T08:56:00.148Z",
+        "id": "6366252070f705001928d44d",
+        "projectId": "40Py5XYtj",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2022-11-05T08:52:00.458Z",
+    "updatedAt": "2022-11-05T08:56:13.485Z",
+    "__v": 12,
+    "id": "1GHo9o8fj"
+  }
+]
